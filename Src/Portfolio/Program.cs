@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Blazor.Hosting;
 
-namespace Portfolio.Client
+namespace Portfolio
 {
     public class Program
     {
